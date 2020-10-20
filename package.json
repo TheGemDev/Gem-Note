@@ -1,0 +1,29 @@
+{
+  "name": "gem-note",
+  "version": "1.0.0",
+  "description": "gem note is a simple text editor",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-gem-dev/Gem-Note.git"
+  },
+  "keywords": [
+    "editor",
+    "text"
+  ],
+  "author": "Gabriel Momoh (The Gem Dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/the-gem-dev/Gem-Note/issues"
+  },
+  "homepage": "https://github.com/the-gem-dev/Gem-Note#readme",
+  "devDependencies": {
+    "electron": "^10.1.4"
+  },
+  "dependencies": {
+    "fs-extra": "^9.0.1"
+  }
+}
